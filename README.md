@@ -1,4 +1,9 @@
+<p align="center">
+  <img src="banner.png" alt="Portfolio Preview" width="100%" />
+</p>
+
 # 🌐 Manna Karunya — Machine Learning Engineer Portfolio  
+
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/mmannakarunya-wq/portfolio?color=blue)  
 ![GitHub repo size](https://img.shields.io/github/repo-size/mmannakarunya-wq/portfolio?color=pink)  
