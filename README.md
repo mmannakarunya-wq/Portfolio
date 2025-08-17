@@ -10,7 +10,7 @@ It highlights my **skills, projects, experience, and education** in Artificial I
 ---
 
 ## 🔗 Live Portfolio  
-👉 [**View My Portfolio**](https://mmannakarunya-wq.github.io/portfolio/)  
+👉 [**View My Portfolio**]((https://mmannakarunya-wq.github.io/Portfolio//))  
 
 ---
 
